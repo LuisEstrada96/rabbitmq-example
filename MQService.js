@@ -40,6 +40,3 @@ stdin.addListener("data", (data) => {
     publishToQueue('messages', data);
 });
 
-
-
-
